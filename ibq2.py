@@ -79,7 +79,7 @@ print("number of negative value:",negative_value)
 print("number of null value:",null_value)
 
 
-sum of an list
+#sum of an list
 list_1=[10, 20, 30, 40]
 sum=0
 for i in list_1:
