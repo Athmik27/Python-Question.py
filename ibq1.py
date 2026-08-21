@@ -28,7 +28,7 @@ while n > 0:
 print("Sum of digits:", sum)
 
 
-#revere an value
+#reverse an value
 n=int(input("Enter a number: "))
 reverse_number= 0
 while n > 0:
