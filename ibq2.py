@@ -67,13 +67,17 @@ null_value=0
 for i in list_1:
     if i>0:
         positive_value=positive_value+1
-        print("number of positive value:",positive_value)
+       
     elif i<0:
             negative_value=negative_value+1
-            print("number of negative value:",negative_value)
+            
     else:
             null_value=null_value+1    
-            print("number of null value:",null_value)
+            
+print("number of positive value:",positive_value)
+print("number of negative value:",negative_value)
+print("number of null value:",null_value)
+
 
 sum of an list
 list_1=[10, 20, 30, 40]
