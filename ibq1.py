@@ -82,7 +82,7 @@ print("largest number is :",largest)
 #smallest element in list
 numbers = [10, 25, 7, 45, 18]
 min(numbers)
-print(max(numbers))
+print(min(numbers))
 #or
 numbers = [10, 25, 7, 45, 18]
 smallest=numbers[0]
