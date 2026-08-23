@@ -6,7 +6,7 @@ while (n>0):
     num=num+digit ** 3
     n=n//10
 print("armstrong number is:",num)
-value=n #check whether the vakue is armstong or no.
+value=n #check whether the value is armstong or no.
 if num==value:
     print("its armstrong")
 else:
