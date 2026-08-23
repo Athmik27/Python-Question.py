@@ -130,7 +130,7 @@ for i in numbers:
     rev_num.insert(0,i)
 print("reversed number is:",rev_num)
 
-sum of all the elements
+#sum of all the elements
 numbers = [10, 20, 30, 40, 50]
 total=0
 for i in numbers:
