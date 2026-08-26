@@ -288,7 +288,7 @@ print("number of element:",number)
 #Find the sum of elments at even indexes
 numbers = [10, 20, 30, 40, 50, 60]
 sum=0
-# for i in range(len(numbers)):
+ for i in range(len(numbers)):
     if i%2==0:
         sum=sum+numbers[i] #here we get the value that is associated to that index
 print("sum of index:",sum)
